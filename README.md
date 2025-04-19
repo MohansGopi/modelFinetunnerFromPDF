@@ -44,7 +44,7 @@ The core functionality of this project involves:
 1.  **Clone the Repository** (if applicable):
 
     ```bash
-    git clone [<repository-url>](https://github.com/MohansGopi/modelFinetunnerFromPDF)
+    git clone https://github.com/MohansGopi/modelFinetunnerFromPDF
     cd modelFinetunnerFromPDF
     ```
 
