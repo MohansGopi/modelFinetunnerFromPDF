@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore")
 
 #condition for already trained
 #fine_tune pcs
-modelName = str(input("Enter the model name : "))
+modelName = str(input("Enter the model name (optional): "))
 if modelName == "":
    modelName = "fine_tuned_llama_updated_ai_model"
 
